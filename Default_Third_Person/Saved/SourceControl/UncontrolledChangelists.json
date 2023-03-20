@@ -7,7 +7,25 @@
 			"files": [
 				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/HUD_bp.uasset",
-				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/QuizData.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/TestCSV.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/QuestionBoard_bp.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/QuestionWidget_bp.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/Example_widget_bp.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/LeftClick_bp.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0H/LFSQSI8Q6I3HLKB58P6HE5.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/AnswerWidget_bp.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/Example_AnswerWidget_bp1.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/Example_QuestionWidget_bp.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/2J/2O6WE594HAMAC2LS11QEKJ.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/L9/2GHWL4DFPNWJSSJBACL0GN.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KY/9ZNW2AEC630W25QIYVGWSB.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/KE/CHJRDHQUZ8VGFJZ2QPPALB.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/NewBlueprint.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/StringTable_bp.uasset"
 			]
 		}
 	]
