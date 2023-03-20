@@ -1,0 +1,21 @@
+Effects of Entertainment on Knowledge Retention
+
+Sam Berna
+Scott Chase
+Aaron Chen
+Phillip Johnson
+
+- Recap what we have done
+  - Most of us started learning unreal since most of us don’t have experience
+  - Same created base project and some elements
+- Talked about possible quiz topics -> CS, History, Philosophy
+  - Most likely going to use .com bubble video (subject to change)
+- Talked about possible game design elements -> wave, choice, combat
+  - Zombie game, balloons game, hole in the wall game?
+  - Most likely going to build off of zombie game
+- Experiment Design
+  - How many participants
+  - How we will teach subject
+  - Question before experiment
+- Continue development of unreal features
+- Test new gameplay possibilities
