@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/phillipjohnson/CSU/ThirdYearCSU/SpringTimeBaby/cs464/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/StarterContent/Audio/Explosion02.uasset",
 				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/HUD_bp.uasset",
 				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
@@ -26,7 +25,14 @@
 				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KY/9ZNW2AEC630W25QIYVGWSB.uasset",
 				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/KE/CHJRDHQUZ8VGFJZ2QPPALB.uasset",
 				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/NewBlueprint.uasset",
-				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/StringTable_bp.uasset"
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/StringTable_bp.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/Tower_Defense/BP_enemy_character.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/ThirdPerson/Maps/TowerDefenseTestMap.umap",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/Tower_Defense/BP_enemy_spawner.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/Tower_Defense/BP_target.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/Tower_Defense/BP_enemy.uasset",
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/Tower_Defense/BP_enemy_ai.uasset",
+				"/Users/phillipjohnson/CSU/ThirdYearCSU/SpringTimeBaby/cs464/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/StarterContent/Audio/Explosion02.uasset"
 			]
 		}
 	]
