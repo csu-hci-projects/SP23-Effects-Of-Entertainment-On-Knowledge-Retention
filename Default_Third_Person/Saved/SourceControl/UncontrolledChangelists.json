@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/phillipjohnson/CSU/ThirdYearCSU/SpringTimeBaby/cs464/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/StarterContent/Audio/Explosion02.uasset",
+				"/Users/phillipjohnson/CSU/ThirdYearCSU/SpringTimeBaby/cs464/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/Megascans/Surfaces/Rocky_Ground_wf4mdeen/MI_Rocky_Ground_wf4mdeen_2K.uasset",
+				"/Users/phillipjohnson/CSU/ThirdYearCSU/SpringTimeBaby/cs464/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/Megascans/Surfaces/Rocky_Ground_wf4mdeen/T_RockyGround_wf4mdeen_2K_ORDp.uasset",
+				"/Users/phillipjohnson/CSU/ThirdYearCSU/SpringTimeBaby/cs464/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/Megascans/Surfaces/Rocky_Ground_wf4mdeen/T_Rocky_Ground_wf4mdeen_2K_N.uasset",
+				"/Users/phillipjohnson/CSU/ThirdYearCSU/SpringTimeBaby/cs464/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/Megascans/Surfaces/Rocky_Ground_wf4mdeen/T_Rocky_Ground_wf4mdeen_2K_D.uasset",
+				"/Users/phillipjohnson/CSU/ThirdYearCSU/SpringTimeBaby/cs464/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/ThirdPerson/Maps/TowerDefenseTestMap.umap",
+				"/Users/phillipjohnson/CSU/ThirdYearCSU/SpringTimeBaby/cs464/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/Tower_Defense/BP_enemy_character.uasset",
+				"/Users/phillipjohnson/CSU/ThirdYearCSU/SpringTimeBaby/cs464/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/Megascans/Surfaces/Clover_Patches_On_Grass_sgmkajak/MI_Clover_Patches_On_Grass_sgmkajak_2K.uasset",
+				"/Users/phillipjohnson/CSU/ThirdYearCSU/SpringTimeBaby/cs464/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/Megascans/3D_Assets/Modular_Stone_Wall_welhfhldw/MI_Modular_Stone_Wall_welhfhldw_2K.uasset",
 				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/HUD_bp.uasset",
 				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
@@ -37,8 +46,7 @@
 				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/Tower_Defense/TeSt_PaWn.uasset",
 				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/Tower_Defense/BP_target.uasset",
 				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/Tower_Defense/BP_enemy.uasset",
-				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/Tower_Defense/BP_enemy_ai.uasset",
-				"/Users/phillipjohnson/CSU/ThirdYearCSU/SpringTimeBaby/cs464/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/StarterContent/Audio/Explosion02.uasset"
+				"C:/Users/Sam/Documents/GitHub/SP23-Effects-Of-Entertainment-On-Knowledge-Retention/Default_Third_Person/Content/Tower_Defense/BP_enemy_ai.uasset"
 			]
 		}
 	]
