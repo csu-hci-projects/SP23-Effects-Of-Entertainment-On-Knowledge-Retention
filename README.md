@@ -13,7 +13,7 @@ presentation video: https://youtu.be/a0PQfRu1ZsE
 
 promo video: https://youtu.be/s84LUgh3TeU
 
-coding vidoe: https://youtu.be/adg--UHY3GU
+coding video: https://youtu.be/adg--UHY3GU
 
 raw promo video: https://drive.google.com/file/d/1zC9FcuBoYpOiMNCSEa_h1NMKFHHK3xnA/view?usp=sharing 
 
